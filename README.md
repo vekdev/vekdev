@@ -7,8 +7,9 @@ Full Stack Software Developer
 I have always had an interest in building websites after learning HTML5 and CSS3 many, many years ago. Now I'm looking for a career switch from English teaching to full-stack development. I have self-taught myself Nodejs with Express & npm, JavaScript, Git, MongoDB, some SQL along with frontend templating with EJS. Now, I need to learn React to further develop my skillset and build some awesome projects! I'm looking for any opportunities to collaborate and any employment opportunities too. I'm from the U.K. but currently based in Poland.
 
 *   🌍  I'm based in Gorzów Wielkopolski, Poland
-*   🖥️  See my portfolio at [My Website](http://kevind.co.uk)
+*   🖥️  See my portfolio at [My Website](https://kevind.co.uk)
 *   ✉️  You can contact me at [contact@kevind.co.uk](mailto:contact@kevind.co.uk)
+*   🚀  I'm currently working on [Devvek - Small Business Websites](https://devvek.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on any interesting projects### Skills 
 <p align="left">
