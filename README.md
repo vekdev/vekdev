@@ -8,7 +8,7 @@ I have always had an interest in building websites after learning HTML5 and CSS3
 
 *   🌍  I'm based in Gorzów Wielkopolski, Poland
 *   🖥️  See my website at [kevind.co.uk](https://kevind.co.uk)
-*   ✉️  You can contact me at [contact@kevind.co.uk](mailto:contact@kevind.co.uk)
+*   ✉️  You can contact me at [contact@kevind.co.uk](mailto:contact@kevind.co.uk)
 *   🚀  I'm currently working on [Devvek - Small Business Websites](https://devvek.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on any interesting projects### Skills 
