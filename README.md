@@ -4,7 +4,9 @@ Hi 👋 My name is Kevin Davis
 Full Stack Software Developer
 -----------------------------
 
-I have always had an interest in building websites after learning HTML5 and CSS3 many, many years ago. Now I'm looking for a career switch from English teaching to full-stack development. I have self-taught myself Nodejs with Express & npm, JavaScript, Git, MongoDB, some SQL along with frontend templating with EJS. Now, I need to learn React to further develop my skillset and build some awesome projects! I'm looking for any opportunities to collaborate and any employment opportunities too. I'm from the U.K. but currently based in Poland.
+<p>I have had an interest in building websites for a long time after learning HTML5 and CSS3 many, many years ago. However, it's only now that I have taken the time to learn JavaScript that I'm now looking to switch careers and work in the tech industry. I have self-taught myself Nodejs with Express & npm, JavaScript, Git, MongoDB, some SQL along with frontend templating with EJS. I'm looking for any opportunities to collaborate and any employment opportunities or internships too. I'm from the U.K. but currently based in Poland.</p>
+
+<p>I have many important soft skills that I have mostly developed in my career in aviation. I'm an effective communicator with good organisation skills. I'm also very adaptable and work well under pressure and collaborate well with others.</p>
 
 *   🌍  I'm based in Gorzów Wielkopolski, Poland
 *   🖥️  See my website at [kevind.co.uk](https://kevind.co.uk)
